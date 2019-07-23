@@ -33,3 +33,7 @@
         font-size: 1em;
         color: #117d84;
     }
+
+    button:hover {
+        cursor: pointer;
+    }
